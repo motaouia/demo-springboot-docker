@@ -3,7 +3,7 @@ A sample application to get Familliar with usig Dockerfile with SpringBoot
 Technologies used are : Jdk1.8, maven, Docker, SpringBoot
 
 1--clone this projetct to your host
- git clone
+ git clone git@github.com:motaouia/demo-springboot-docker.git
 
 2--build the application using maven tool:
 mvn clean install
